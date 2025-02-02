@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    margin: 0 auto;
+    padding: 150px;
+    font-size:14px;
+    background-color: grey;
+    max-width: 50%;
+}
+.img{
+    border-radius:50%;
+
+}
+.container #name{
+    color:white;
+    margin-top: 20px;
+    font-size:20px;
+}
+.container .description{
+    color:yellow;
+}
+.container .about{
+    margin-top:20px;
+}
+
+.fa-links-container{
+    margin-top:20px;
+    padding:10px;
+    text-align: center;
+}
+
+.fa-links-container div{
+    padding:10px;
+    border-radius:5px;
+    background-color
+    color:white;
+}
